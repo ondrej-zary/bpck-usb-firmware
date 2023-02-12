@@ -1,0 +1,13 @@
+#these are the entries for bpck-usb devices
+SYSFS{idVendor}=="0ac9", SYSFS{idProduct}=="0000", RUN+="/lib/udev/backpack-usb.sh"
+SYSFS{idVendor}=="0ac9", SYSFS{idProduct}=="0001", RUN+="/lib/udev/backpack-usb.sh"
+SYSFS{idVendor}=="0ac9", SYSFS{idProduct}=="1000", RUN+="/lib/udev/backpack-usb.sh"
+SYSFS{idVendor}=="0ac9", SYSFS{idProduct}=="1001", RUN+="/lib/udev/backpack-usb.sh"
+SYSFS{idVendor}=="0ac9", SYSFS{idProduct}=="1002", RUN+="/lib/udev/backpack-usb.sh"
+SYSFS{idVendor}=="0ac9", SYSFS{idProduct}=="1003", RUN+="/lib/udev/backpack-usb.sh"
+SYSFS{idVendor}=="0ac9", SYSFS{idProduct}=="1004", RUN+="/lib/udev/backpack-usb.sh"
+SYSFS{idVendor}=="0ac9", SYSFS{idProduct}=="1005", RUN+="/lib/udev/backpack-usb.sh"
+SYSFS{idVendor}=="0ac9", SYSFS{idProduct}=="1006", RUN+="/lib/udev/backpack-usb.sh"
+SYSFS{idVendor}=="0ac9", SYSFS{idProduct}=="1007", RUN+="/lib/udev/backpack-usb.sh"
+SYSFS{idVendor}=="0ac9", SYSFS{idProduct}=="0010", RUN+="/lib/udev/backpack-usb.sh"
+SYSFS{idVendor}=="0ac9", SYSFS{idProduct}=="0011", RUN+="/lib/udev/backpack-usb.sh"
